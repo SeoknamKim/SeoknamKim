@@ -4,6 +4,13 @@ Hi, I'm  Kimseoknam.
 
 I am a AI data scientist using python.
 
+### I can speak..
+
+- Korean
+- English
+- Python
+- Java
+- R
 <!--
 **SeoknamKim/SeoknamKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
