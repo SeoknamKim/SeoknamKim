@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Let me introduce myself
+
+Hi, I'm  Kimseoknam.
+I am a AI data scientist using python.
+
 <!--
 **SeoknamKim/SeoknamKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
